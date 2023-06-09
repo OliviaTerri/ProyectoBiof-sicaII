@@ -12,7 +12,7 @@ Si bien la idea original del proyecto plantea el uso de Arduino, para llevar a c
 
 Diagrama de tareas 
 
-Viernes 9:	Diseño del circuito en Tinkercad. Diseño de carcasa para el dispositivo. Descarga e instalación del soporte de Arduino
+Viernes 9:	Diseño del circuito. Diseño de carcasa para el dispositivo. Descarga e instalación del soporte de Arduino
 para ESP32. 
 
 Miércoles 14:	Armado del circuito y programación del código para ESP32.
