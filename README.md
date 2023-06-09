@@ -8,6 +8,8 @@ en el circuito. Como un segundo objetivo, proponemos lograr que la información 
 manera que nos permita visualizar y trabajar con los datos en una computadora con conexión a internet. Para este fin utilizaremos el 
 microcontrolador ESP32. 
 
+![WhatsApp Image 2023-06-09 at 10 27 14](https://github.com/OliviaTerri/ProyectoBiof-sicaII/assets/135866589/507ba2c6-7c20-4334-808e-d909d66040bd)
+
 Diagrama de tareas 
 Viernes 9:	Diseño del circuito en Tinkercad. Diseño de carcasa para el dispositivo.
 Miércoles 14:	Armado del circuito y programación del código para ESP32.
