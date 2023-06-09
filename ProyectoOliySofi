@@ -1,1 +1,47 @@
+#Toma de datos para obtener fecha y hora de internet
+#include <WiFi.h>
+#include "time.h"
+const char* ssid = "Nombre-de-la-red";
+const char* password = "contraseña";
+const char* ntpServer = "pool.ntp.org";
+const long gmtOffset_sec = -3600*4;
+const int daylightOffset_sec = 3600;
+void printLocalTime()
+{
+struct tm timeinfo;
+if(!getLocalTime(&timeinfo)){
+Serial.println("Failed to obtain time");
+return;
+}
+Serial.println(&timeinfo, " %b %d %Y %H:%M:%S");
+}
+void setup()
+{
+Serial.begin(115200);
+pinMode(2,OUTPUT);
+contador=0;
+//connect to WiFi
+Serial.printf("Connecting to %s ", ssid);
+WiFi.begin(ssid, password);
+while (WiFi.status() != WL_CONNECTED) {
+delay(500);
+Serial.print(".");
+digitalWrite(2,HIGH);
+delay(100);
+digitalWrite(2,LOW);
+if (contador>limiteenganche){
+ESP.restart();
+}
+contador=contador+1;
+}
+Serial.println(" CONNECTED");
+//init and get the time
+configTime(gmtOffset_sec, daylightOffset_sec, ntpServer);
+}
+void loop()
+{
+printLocalTime();
+delay(2000);
+}
 
+#Subir los datos a la web
