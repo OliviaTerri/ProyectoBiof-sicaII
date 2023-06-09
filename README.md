@@ -24,7 +24,9 @@ Miércoles 21:	Demostración.
 Materiales 
 
 Microcontrolador ESP32
+
 Sensor tipo pinza
+
 Tablero breadboard
 
 Desarrollo del trabajo 
