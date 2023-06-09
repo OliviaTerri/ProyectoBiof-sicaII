@@ -36,5 +36,10 @@ ello seguimos el instructivo encontrado en el repositorio de Github (https://doc
 
 Utilizaremos un programa para obtener la fecha y hora de internet y otro para subir los datos registrados a la web. Se encuentran en el archivo "ProyectoOliySofi".
 
+Para poder subir los datos a la web, preparamos una planilla donde se registrarán los datos obtenidos implementando un script de Java utilizando la extensión de Googlesheet AppScript. Se registran a continuación el ID de implementación y una aplicación web asociada al ID. 
+ID de implementación: AKfycbxYqQAXsC_kufgFIQIZepenFwoBJT7k0Enx58VFMqCTfZUQ3O-g8U9026gVphvYmAQ
+Aplicación Web: https://script.google.com/macros/s/AKfycbxYqQAXsC_kufgFIQIZepenFwoBJT7k0Enx58VFMqCTfZUQ3O-g8U9026gVphvYmAQ/exec
+
+
 
 
