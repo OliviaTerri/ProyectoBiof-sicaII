@@ -8,13 +8,17 @@ domicilio, la potencia activa, y los grados de desfasaje entre la corriente y el
 en el circuito. Se utilizará un sensor no invasivo tipo pinza.
 Como un segundo objetivo, proponemos lograr que la información obtenida por el dispositivo sea registrada on-line de 
 manera que nos permita visualizar y trabajar con los datos en una computadora con conexión a internet.
-Si bien la idea original del proyecto plantea el uso de Arduino, para llevar a cabo ambos objetivos utilizaremos el microcontrolador ESP32. 
+Si bien la idea original del proyecto plantea el uso de Arduino, para llevar a cabo ambos objetivos utilizaremos el microcontrolador ESP32 (programado desde la IDE de Arduino). 
 
 Diagrama de tareas 
 
-Viernes 9:	Diseño del circuito en Tinkercad. Diseño de carcasa para el dispositivo.
+Viernes 9:	Diseño del circuito en Tinkercad. Diseño de carcasa para el dispositivo. Descarga e instalación del soporte de Arduino
+para ESP32. 
+
 Miércoles 14:	Armado del circuito y programación del código para ESP32.
+
 Viernes 16:	Prueba de medición y procesamiento de los datos.
+
 Miércoles 21:	Demostración.
 
 Materiales 
@@ -23,6 +27,10 @@ Microcontrolador ESP32
 Sensor tipo pinza
 Tablero breadboard
 
+Desarrollo del trabajo 
+
+Comenzamos instalando el soporte de Arduino-ESP32 para poder utilizar la IDE de Arduino para programar nuestro microcontrolador. Para
+ello seguimos el instructivo encontrado en el repositorio de Github (https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html). 
 
 
 
