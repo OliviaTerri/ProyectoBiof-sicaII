@@ -25,9 +25,13 @@ Materiales
 
 Microcontrolador ESP32
 
-Sensor tipo pinza
+Sensor tipo pinza SCT013 (10 A/1 V)
 
 Tablero breadboard
+
+Resistencias
+
+Adaptador para ESP32
 
 Desarrollo del trabajo 
 
