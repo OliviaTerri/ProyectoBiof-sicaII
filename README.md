@@ -40,7 +40,9 @@ Para poder subir los datos a la web, preparamos una planilla donde se registrar�
 ID de implementación: AKfycbwnw09FeCX5xv4po2xRdoj9u69zH97BtmXUJV-VXfmh9ccMUu0Srlv4gsfdqkxJJMI
 Aplicación Web: https://script.google.com/macros/s/AKfycbwnw09FeCX5xv4po2xRdoj9u69zH97BtmXUJV-VXfmh9ccMUu0Srlv4gsfdqkxJJMI/exec
 
-Para poder acceder a nuestra planilla utilizamos el siguiente enlace: https://script.google.com/macros/s/AKfycbwnw09FeCX5xv4po2xRdoj9u69zH97BtmXUJV-VXfmh9ccMUu0Srlv4gsfdqkxJJMI/exec?hora=1/1/2023/11:23;07&corriente=5&voltaje=220 
+Para  cargar datos en nuestra planilla utilizamos el siguiente enlace: https://script.google.com/macros/s/AKfycbwnw09FeCX5xv4po2xRdoj9u69zH97BtmXUJV-VXfmh9ccMUu0Srlv4gsfdqkxJJMI/exec?hora=1/1/2023/11:23;07&corriente=5&voltaje=220 
+
+Link para acceso a la planilla: https://docs.google.com/spreadsheets/d/1xOkNwPYBVjeUegbSmnY7YPKFOHt2uWFZYH9q6XaOhpw/edit?usp=sharing
 
 Nota: Los códigos utilizados en la sección anterior son versiones modificadas de los presentados en el Trabajo Práctico "Parece que va a llover" del Profesor Raul Righini. 
 
