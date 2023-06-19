@@ -2,6 +2,9 @@
 
 Introducción/Objetivos
 
+Según datos reportados por la Compañía Administradora del Mercado Mayorista Eléctrico (CAMMESA), el consumo de electricidad nacional aumentó en marzo del corriente 
+año un 28,6 % en relación con el mismo mes del 2022. Más precisamente, el 13 de marzo a las 15:28 hs, se registró la demanda de potencia instantánea más alta de la 
+historia, 29.105 MW.   
 Conocer nuestro consumo de energía eléctrica, nos permite hacer un uso responsable del recurso.
 El objetivo principal del trabajo es diseñar y construir un dispositivo que permita realizar mediciones de corriente y tensión 
 en una red eléctrica doméstica, parámetros mediante los cuales se estimarán la energía demandada en cierto período de tiempo en el 
