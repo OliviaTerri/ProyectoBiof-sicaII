@@ -2,7 +2,7 @@
 
 Introducción/Objetivos
 
-
+Conocer nuestro consumo de energía eléctrica, nos permite hacer un uso responsable del recurso.
 El objetivo principal del trabajo es diseñar y construir un dispositivo que permita realizar mediciones de corriente y tensión 
 en una red eléctrica doméstica, parámetros mediante los cuales se estimarán la energía demandada en cierto período de tiempo en el 
 domicilio, la potencia activa, y los grados de desfasaje entre la corriente y el voltaje para evaluar la potencia reactiva producida
