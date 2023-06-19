@@ -1,10 +1,11 @@
-# Trabajo Final Biofísica II: analizador de energía. 
+# Trabajo Final Biofísica II: Analizador de energía. 
 
 Introducción/Objetivos
 
+
 El objetivo principal del trabajo es diseñar y construir un dispositivo que permita realizar mediciones de corriente y tensión 
 en una red eléctrica doméstica, parámetros mediante los cuales se estimarán la energía demandada en cierto período de tiempo en el 
-domicilio, la potencia activa, y los grados de desfasaje entre la corriente y el voltaje para evaluar la potencia reactiva preoducida
+domicilio, la potencia activa, y los grados de desfasaje entre la corriente y el voltaje para evaluar la potencia reactiva producida
 en el circuito. Se utilizará un sensor no invasivo tipo pinza.
 Como un segundo objetivo, proponemos lograr que la información obtenida por el dispositivo sea registrada on-line de 
 manera que nos permita visualizar y trabajar con los datos en una computadora con conexión a internet.
