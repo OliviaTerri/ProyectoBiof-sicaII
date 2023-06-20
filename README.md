@@ -18,16 +18,15 @@ posterior análisis desde cualquier dispositivo conectado a Internet.
 
 DIAGRAMA DE TAREAS 
 
-Viernes 9:	Diseño del circuito. Diseño de carcasa para el dispositivo. Descarga e instalación del soporte de Arduino
-para ESP32. 
+Viernes 9:	Diseño del circuito. Descarga e instalación del soporte de Arduino para programar el microcontrolador ESP32. 
 
-Miércoles 14:	Armado del circuito y programación del código para ESP32.
+Miércoles 14:	Armado del circuito y carga del código para ESP32.
 
 Viernes 16:	Prueba de medición y procesamiento de los datos.
 
 Miércoles 21:	Demostración.
 
-Materiales 
+MATERIALES 
 
 Microcontrolador ESP32
 
