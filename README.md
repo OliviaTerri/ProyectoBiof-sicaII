@@ -13,10 +13,12 @@ eléctrica, dispositivo que permitirá realizar mediciones de corriente y tensi�
 estimará la energía demandada en un determinado período de tiempo, la potencia activa, y los grados de desfasaje entre la corriente y el voltaje con el objetivo de 
 evaluar la potencia reactiva producida en el circuito en estudio. Para llevar a cabo las mediciones de corriente, se utilizará un sensor no invasivo tipo pinza.
 Por otro lado, se propone como objetivo secundario aprender a programar el microcontrolador ESP32 desde la IDE de Arduino para registrar en una planilla o 
- aplicación los valores de las mediciones tomadas por el analizador de energía eléctrica a través de una red Wi-Fi. De esta forma, se podrá acceder a los datos 
- para su posterior análisis desde cualquier dispositivo conectado a Internet.     
+aplicación los valores de las mediciones tomadas por el analizador de energía eléctrica a través de una red Wi-Fi. De esta forma, se podrá acceder a los datos 
+para su posterior análisis desde cualquier dispositivo conectado a Internet.     
+
 
 DIAGRAMA DE TAREAS 
+
 
 Viernes 9:	Diseño del circuito. Descarga e instalación del soporte de Arduino para programar el microcontrolador ESP32. 
 
@@ -26,7 +28,9 @@ Viernes 16:	Prueba de medición y procesamiento de los datos.
 
 Miércoles 21:	Demostración.
 
+
 MATERIALES 
+
 
 Microcontrolador ESP32
 
@@ -38,10 +42,13 @@ Resistencias
 
 Adaptador para ESP32
 
+
 DESARROYO DEL TRABAJO 
 
-Comenzamos instalando el soporte de Arduino-ESP32 para poder utilizar la IDE de Arduino para programar nuestro microcontrolador. Para
-ello seguimos el instructivo encontrado en el repositorio de Github (https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html). 
+
+En primer lugar, se procedió con la instalación del soporte de Arduino-ESP32 con el objetivo de utilizar la IDE de Arduino para programar el microcontrolador. Para
+ello, se empleó un instructivo encontrado en el repositorio de GitHub, cuyo link se detalla a continuación: 
+https://docs.espressif.com/projects/arduinoesp32/en/latest/installing.html. 
 
 Utilizaremos un programa para obtener la fecha y hora de internet y otro para subir los datos registrados a la web. Se encuentran en el archivo "ProyectoOliySofi".
 
