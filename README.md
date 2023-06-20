@@ -1,4 +1,4 @@
-# Proyecto Final Biofísica II: Analizador de energía. 
+# Proyecto Final Biofísica II: Analizador de energía eléctrica. 
 
 INTRODUCCIÓN
 
@@ -8,13 +8,13 @@ historia, 29.105 MW. A pesar de este particular incremento, la demanda de energ�
 adicionamos el hecho de que la energía eléctrica a nivel mundial se genera principalmente a partir de combustibles fósiles, una fuente de energía no renovable en 
 tiempos humanos, el asunto se torna de suma relevancia. Por lo tanto, consideramos que conocer el consumo de energía eléctrica de nuestra red domiciliaria así como también de la red universitaria, constituye una herramienta indispensable para hacer un uso responsable del recurso.
 
-En este contexto se enmarca el presente proyecto final, el cual contempla como objetivo principal de trabajo el diseño y construcción de un analizador de energía, 
-dispositivo que permitirá realizar mediciones de corriente y tensión en una red eléctrica doméstica y/o universitaria. En base a dichos parámetros, se estimará la 
-energía demandada en un determinado período de tiempo, la potencia activa, y los grados de desfasaje entre la corriente y el voltaje con el objetivo de evaluar la 
-potencia reactiva producida en el circuito en estudio. Para llevar a cabo las mediciones de corriente, se utilizará un sensor no invasivo tipo pinza.
+En este contexto se enmarca el presente proyecto final, el cual contempla como objetivo principal de trabajo el diseño y construcción de un analizador de energía 
+eléctrica, dispositivo que permitirá realizar mediciones de corriente y tensión en una red eléctrica doméstica y/o universitaria. En base a dichos parámetros, se 
+estimará la energía demandada en un determinado período de tiempo, la potencia activa, y los grados de desfasaje entre la corriente y el voltaje con el objetivo de 
+evaluar la potencia reactiva producida en el circuito en estudio. Para llevar a cabo las mediciones de corriente, se utilizará un sensor no invasivo tipo pinza.
 Por otro lado, se propone como objetivo secundario aprender a programar el microcontrolador ESP32 desde la IDE de Arduino para registrar en una planilla o 
-aplicación los valores de las mediciones tomadas por el analizador de energía a través de una red Wi-Fi. De esta forma, se podrá acceder a los datos para su 
-posterior análisis desde cualquier dispositivo conectado a Internet.     
+ aplicación los valores de las mediciones tomadas por el analizador de energía eléctrica a través de una red Wi-Fi. De esta forma, se podrá acceder a los datos 
+ para su posterior análisis desde cualquier dispositivo conectado a Internet.     
 
 DIAGRAMA DE TAREAS 
 
