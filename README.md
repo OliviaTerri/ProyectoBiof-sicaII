@@ -46,13 +46,16 @@ Adaptador para ESP32
 DESARROYO DEL TRABAJO 
 
 
-En primer lugar, se procedió con la instalación del soporte de Arduino-ESP32 con el objetivo de utilizar la IDE de Arduino para programar el microcontrolador. Para
-ello, se empleó un instructivo encontrado en el repositorio de GitHub, cuyo link se detalla a continuación: 
+En primer lugar, se procede con la instalación del soporte de Arduino-ESP32 con el objetivo de utilizar la IDE de Arduino para programar el microcontrolador. Para
+ello, se sugiere el empleo de un instructivo encontrado en el repositorio de GitHub, cuyo link se detalla a continuación: 
 https://docs.espressif.com/projects/arduinoesp32/en/latest/installing.html. 
 
-Utilizaremos un programa para obtener la fecha y hora de internet y otro para subir los datos registrados a la web. Se encuentran en el archivo "ProyectoOliySofi".
+Posteriormente, se cargan a la memoria del microcontrolador ESP32 dos programas informáticos. Uno de ellos permitirá subir los valores de las mediciones 
+registradas por el analizador de energía eléctrica directamente a la web, mientras que el otro posibilitará asignarle una fecha y hora a cada dato medido en base 
+al registro del tiempo obtenido a partir de Internet. Ambos códigos se detallan en el archivo "ProyectoOliySofi".
 
-Para poder subir los datos a la web, preparamos una planilla donde se registrarán los datos obtenidos implementando un script de Java utilizando la extensión de Googlesheet AppScript. Se registran a continuación el ID de implementación y una aplicación web asociada al ID. 
+Para poder subir los datos a la web, preparamos una planilla donde se registrarán los datos obtenidos implementando un script de Java utilizando la extensión de 
+Googlesheet AppScript. Se registran a continuación el ID de implementación y una aplicación web asociada al ID. 
 ID de implementación: AKfycbwnw09FeCX5xv4po2xRdoj9u69zH97BtmXUJV-VXfmh9ccMUu0Srlv4gsfdqkxJJMI
 Aplicación Web: https://script.google.com/macros/s/AKfycbwnw09FeCX5xv4po2xRdoj9u69zH97BtmXUJV-VXfmh9ccMUu0Srlv4gsfdqkxJJMI/exec
 
