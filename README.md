@@ -20,7 +20,7 @@ para su posterior análisis desde cualquier dispositivo conectado a Internet.
 CONCEPTOS DE LA MATERIA A APLICAR EN ESTE PROYECTO 
 
 
-En el desarrollo de este trabajo se aplican conceptos de corriente eléctrica y potencial eléctrico, Ley de Ampere, circuitos de corriente alterna e induccón 
+En el desarrollo de este trabajo se aplican conceptos de corriente eléctrica y potencial eléctrico, Ley de Ampère, circuitos de corriente alterna e induccón 
 electromagnética. Además, se profundiza en el uso de placas programables para la medición y monitoreo de parámetros eléctricos. 
 
 
