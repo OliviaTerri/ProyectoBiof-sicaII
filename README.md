@@ -55,7 +55,7 @@ registradas por el analizador de energía eléctrica directamente a la web, mien
 al registro del tiempo obtenido a partir de Internet. Ambos códigos se detallan en el archivo "ProyectoOliySofi".
 
 Las mediciones obtenidas se registrarán conforme transcurra el tiempo en una planilla creada a partir de un script de Java utilizando la extensión de Googlesheet 
-AppScript. A continuación se describe el ID de implementación y una aplicación web asociada al ID. 
+AppScript. A continuación se describe el ID de implementación y una aplicación web asociada al ID.                                                                  
 ID de implementación: AKfycbwnw09FeCX5xv4po2xRdoj9u69zH97BtmXUJV-VXfmh9ccMUu0Srlv4gsfdqkxJJMI                                                             
 Aplicación Web: https://script.google.com/macros/s/AKfycbwnw09FeCX5xv4po2xRdoj9u69zH97BtmXUJV-VXfmh9ccMUu0Srlv4gsfdqkxJJMI/exec
 
