@@ -16,6 +16,9 @@ Por otro lado, se propone como objetivo secundario aprender a programar el micro
 aplicación los valores de las mediciones tomadas por el analizador de energía eléctrica a través de una red Wi-Fi. De esta forma, se podrá acceder a los datos 
 para su posterior análisis desde cualquier dispositivo conectado a Internet.     
 
+Conceptos de la materia a aplicar en este proyecto: 
+
+En el desarrollo de este trabajo se aplican conceptos de corriente eléctrica y potencial eléctrico, circuitos de corriente alterna e induccón electromagnética. Además, se profundiza en el uso de placas programables para la medición y monitoreo de parámetros eléctricos. 
 
 DIAGRAMA DE TAREAS 
 
