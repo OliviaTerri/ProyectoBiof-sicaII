@@ -56,7 +56,7 @@ al registro del tiempo obtenido a partir de Internet. Ambos códigos se detallan
 
 Las mediciones obtenidas se registrarán conforme transcurra el tiempo en una planilla creada a partir de un script de Java utilizando la extensión de Googlesheet 
 AppScript. A continuación se describe el ID de implementación y una aplicación web asociada al ID. 
-ID de implementación: AKfycbwnw09FeCX5xv4po2xRdoj9u69zH97BtmXUJV-VXfmh9ccMUu0Srlv4gsfdqkxJJMI
+ID de implementación: AKfycbwnw09FeCX5xv4po2xRdoj9u69zH97BtmXUJV-VXfmh9ccMUu0Srlv4gsfdqkxJJMI                                                             
 Aplicación Web: https://script.google.com/macros/s/AKfycbwnw09FeCX5xv4po2xRdoj9u69zH97BtmXUJV-VXfmh9ccMUu0Srlv4gsfdqkxJJMI/exec
 
 Para  cargar datos en nuestra planilla utilizamos el siguiente enlace: https://script.google.com/macros/s/AKfycbwnw09FeCX5xv4po2xRdoj9u69zH97BtmXUJV-VXfmh9ccMUu0Srlv4gsfdqkxJJMI/exec?hora=1/1/2023/11:23;07&corriente=5&voltaje=220 
