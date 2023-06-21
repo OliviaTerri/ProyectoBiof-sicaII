@@ -69,6 +69,14 @@ Link para acceso a la planilla: https://docs.google.com/spreadsheets/d/1xOkNwPYB
 Nota: Los códigos utilizados en el presente proyecto representan versiones modificadas de programas expuestos en el Trabajo Práctico "Parece que va a llover", cuyo 
 autor es el profesor Raúl Righini. 
 
+DIFICULTADES ENCONTRADAS: 
+
+En el desarrollo del trabajo encontramos complicaciones para programar la placa ESP32. En primer lugar, este microcontrolador resultó ser nuevo para nosotras que estabamos familiarizadas con Arduino. Sin embargo, dada la posibilidad de conectarnos mediante Wifi al ESP32 optamos por esta placa ya que nuestro objetivo era diseñar un analizador que fuera inalámbrico. No logramos desarrollar o encontrar un código que nos permitiera hacer las mediciones propuestas con el ESP32, y también tuvimos problemas con el protocolo para subir la información a una planilla on-line. Esto último pudimos resolverlo con ayuda del docente ya que simplemente debíamos modificar el nombre de la hoja utilizada en dicha planilla para que conincidiera con el código en AppScript. Por otro lado, no logramos realizar la conexión necesaria entre alguna de las computadoras de las que disponemos y el microcontrolador ESP32, por lo tanto, no fue posible avanzar con la programación del mismo. 
+
+EXPECTATIVAS DE ESTE TRABAJO:
+
+Esperamos que a partir de lo que hemos propuesto y descrito en este trabajo, próximas cohortes de Biofísica II puedan continuar con el mismo e implementarlo, destinando más tiempo a la resolución de las dificultades que nosotras encontramos aprovchando como punto de partida lo que sí hemos podido elaborar.  
+
 
 
 
